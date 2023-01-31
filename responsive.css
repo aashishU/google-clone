@@ -1,0 +1,20 @@
+@media screen and (max-width: 900px) {
+    .search-bar{
+        width: 267px;
+    }
+}
+
+@media screen and (max-width: 540px) {
+    .country{
+        bottom: 101px;
+    }
+
+    .bottom-nav{
+        height: 81px;
+        bottom: 20px;
+    }
+
+    .bottom-nav  nav{
+        flex-direction: column;
+    }
+}
